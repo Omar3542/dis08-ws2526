@@ -2,8 +2,7 @@
 
 Welcome! This repository goes along with the **Data Modeling** course at TH Köln in the winter semester 2025/26. Other resources like slides can be found on [Moodle](https://elearning.iws.th-koeln.de/moodle/course/view.php?id=2818). If you have recommendations for software tools, learning resources etc. that you would like to share with others, please add them here: [irgroup-classrooms/awesome-data-modeling](https://github.com/irgroup-classrooms/awesome-data-modeling).
 
-> [!NOTE]
-> Please insert links to your personal GitHub account and your group's repository below. You can remove this note afterwards.
+https://github.com/Omar3542|https://github.com/Omar3542/dis08-ws2526/blob/main/README.md
 
 :octocat: [My GitHub profile]() | :busts_in_silhouette: [My group repository]()
 
