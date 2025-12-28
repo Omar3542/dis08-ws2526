@@ -21,7 +21,7 @@ You will use this repository to document your **lab assignments** throughout the
 
 | No. | Date | Topic | Directory | Task |
 | --- | ---| --- | --- | --- |
-| **1** | 2025/10/16 | Open Source Software and Hosting | [`./labs/01/`](./labs/01/) | [:link:](https://gist.github.com/breuert/881ad6d93aa5027c3cb7217e6ec90941) |
+| **1** | 2025/10/16 | Open Source Software and Hosting | [`./labs/01/`](./labs/01/) | [:link:](https://gist.github.com/breuert/881ad6d93aa5027c3cb7217e6ec90941) |LMG
 | **2** | 2025/10/23 | Open Data | [`./labs/02/`](./labs/02/) | [:link:](https://gist.github.com/breuert/02fcce56cb75cc75e1105f491a2f6e84) |
 | **3** | 2025/10/30 | Command Line Interface | [`./labs/03/`](./labs/03/) | [:link:](https://gist.github.com/breuert/4e2ce2387332807c5e767d2793952540) |
 | **4** | 2025/11/06 | Version Control Software | [`./labs/04/`](./labs/04/) | [:link:](https://gist.github.com/breuert/4f0345a6478d286f7e45d06dea75c3f4) |
