@@ -57,8 +57,14 @@ Combining these datasets enables salary-performance analysis:
 - Execute the technical merge using the cleaned keys. First, perform a player match by joining the cleaned player tables from both datasets on the standardized player name. Then, enrich the performance statistics by joining the game/box score data (which now has a season key) with the newly created player-salary lookup table based on player_id and season.
 
 - ### 3. Validate & Structure for Analysis
-- After merging, ensure data quality and prepare for use. Check the merge success rate to see what percentage of records were successfully linked and investigate mismatches. Finally, structure the final dataset into a clean, analysis-ready table that combines player performance metrics with their corresponding salary for each season.
+- After merging, ensure data quality and prepare for use. Check the merge success rate to see what percentage of records were successfully linked and investigate mismatches. Finally, structure the final dataset into a clean, analysis-ready table that combines player performance metrics with their corresponding salary for each season. 
 
+| Principle | Rating | Assessment & Evidence |
+| :--- | :--- | :---
+| **Findable** | **Very Good** | The dataset is highly findable. It is hosted on Kaggle, a major data platform, with a descriptive title ("NBA Database"), relevant tags (nba, basketball, sports), and a rich "About" section detailing its scope, tables, and update frequency.|
+| Accessible| Good | The dataset is accessible with one minor barrier. It can be downloaded directly as a single file via a stable URL. However, a free Kaggle account is required to initiate the download, which is a common practice on the platform but still a technical barrier to completely anonymous access.|
+| **Interoperable** | **Excellent** | The dataset scores excellently in interoperability. It is provided as a standard SQLite database (.sqlite), a universally machine-readable, open-source format. The data is highly structured across normalized relational tables (Game, Player, Team, etc.), allowing for immediate use with countless tools (Python, R, SQL browsers).|
+| **Reusable** | **Very Good** | The dataset is highly reusable. Its Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) license is clear, standard, and explicitly permits commercial and academic reuse. The documentation on Kaggle is good, and the associated GitHub repository provides technical details on the data's generation, further supporting informed reuse.|
 
 ---
 
